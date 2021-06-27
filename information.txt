@@ -1,5 +1,3 @@
-
-dada
 Avoid ctest truncation of output: CTEST_FULL_OUTPUT
 ========================================================
 === MAIN VARIABLES
