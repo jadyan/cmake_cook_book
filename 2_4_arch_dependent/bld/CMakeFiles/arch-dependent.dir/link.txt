@@ -1,0 +1,1 @@
+/bin/c++      CMakeFiles/arch-dependent.dir/arch_dependent.cpp.o  -o arch-dependent -rdynamic 

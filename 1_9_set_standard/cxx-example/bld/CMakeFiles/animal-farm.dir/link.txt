@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/animal-farm.dir/animal-farm.cpp.o  -o animal-farm -rdynamic libanimals.so -Wl,-rpath,/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/bld 

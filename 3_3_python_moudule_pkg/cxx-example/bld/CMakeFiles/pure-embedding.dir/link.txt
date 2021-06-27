@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pure-embedding.dir/Py3-pure-embedding.cpp.o -o pure-embedding  -Wl,-rpath,/usr/local/python3/lib /usr/local/python3/lib/libpython3.7m.so 

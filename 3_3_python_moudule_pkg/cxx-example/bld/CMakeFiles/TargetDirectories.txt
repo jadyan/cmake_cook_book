@@ -1,0 +1,3 @@
+/home/jadyan/code/book/cmake_cook_book/3_3_python_moudule_pkg/cxx-example/bld/CMakeFiles/rebuild_cache.dir
+/home/jadyan/code/book/cmake_cook_book/3_3_python_moudule_pkg/cxx-example/bld/CMakeFiles/edit_cache.dir
+/home/jadyan/code/book/cmake_cook_book/3_3_python_moudule_pkg/cxx-example/bld/CMakeFiles/pure-embedding.dir

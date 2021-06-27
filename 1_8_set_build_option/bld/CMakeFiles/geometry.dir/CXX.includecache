@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_circle.cpp
+geometry_circle.hpp
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_circle.hpp
+cmath
+-
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_circle.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_polygon.cpp
+geometry_polygon.hpp
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_polygon.hpp
+cmath
+-
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_polygon.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_rhombus.cpp
+geometry_rhombus.hpp
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_rhombus.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_rhombus.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_square.cpp
+geometry_square.hpp
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_square.hpp
+cmath
+-
+
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/geometry_square.hpp
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jadyan/code/book/cmake_cook_book/2_5_Detect_processor_instruction_set/cxx-example/processor-info.cpp
+config.h
+/home/jadyan/code/book/cmake_cook_book/2_5_Detect_processor_instruction_set/cxx-example/config.h
+cstdlib
+-
+iostream
+-
+
+config.h
+

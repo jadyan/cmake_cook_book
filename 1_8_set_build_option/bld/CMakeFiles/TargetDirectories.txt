@@ -1,0 +1,2 @@
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/bld/CMakeFiles/compute-areas.dir
+/home/jadyan/code/book/cmake_cook_book/1_8_set_build_option/bld/CMakeFiles/geometry.dir

@@ -1,0 +1,1 @@
+/home/jadyan/code/book/cmake_cook_book/2_4_arch_dependent/bld/CMakeFiles/arch-dependent.dir

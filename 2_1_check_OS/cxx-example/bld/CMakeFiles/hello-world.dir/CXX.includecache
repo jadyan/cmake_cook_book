@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jadyan/code/book/cmake_cook_book/2_1_check_OS/cxx-example/hello-world.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+

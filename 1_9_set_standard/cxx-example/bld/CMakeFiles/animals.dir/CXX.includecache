@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Animal.cpp
+Animal.hpp
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Animal.hpp
+string
+-
+
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Animal.hpp
+string
+-
+
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Cat.cpp
+Cat.hpp
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Cat.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Cat.hpp
+Animal.hpp
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Animal.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Dog.cpp
+Dog.hpp
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Dog.hpp
+
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Dog.hpp
+Animal.hpp
+/home/jadyan/code/book/cmake_cook_book/1_9_set_standard/cxx-example/Animal.hpp
+
